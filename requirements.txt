@@ -1,3 +1,5 @@
 faker==19.6.2
 psycopg[binary]
 pandas
+pymongo>=4.0.0
+python-dotenv>=1.0.0

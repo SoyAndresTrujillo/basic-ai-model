@@ -231,3 +231,6 @@ pyrightconfig.json
 
 # Windsurf
 .windsurf
+
+student_payment_bi_export_20251005_215433.csv
+student_payment_bi_export_mongodb_20251009_224138.csv
